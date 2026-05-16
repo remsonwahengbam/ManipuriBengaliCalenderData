@@ -1,0 +1,2362 @@
+{
+	"daily_info": {
+		"2026-01-01": {
+			"lunar_days": [
+				13
+			],
+			"lunar_month": "ৱাকচিং",
+			"holiday": "Gan-Ngai"
+		},
+		"2026-01-02": {
+			"lunar_days": [
+				14
+			],
+			"lunar_month": "ৱাকচিং"
+		},
+		"2026-01-03": {
+			"lunar_days": [
+				15
+			],
+			"lunar_month": "ৱাকচিং"
+		},
+		"2026-01-04": {
+			"lunar_days": [
+				1
+			],
+			"lunar_month": "ৱাকচিং"
+		},
+		"2026-01-05": {
+			"lunar_days": [
+				17
+			],
+			"lunar_month": "ৱাকচিং"
+		},
+		"2026-01-06": {
+			"lunar_days": [
+				18
+			],
+			"lunar_month": "ৱাকচিং"
+		},
+		"2026-01-07": {
+			"lunar_days": [
+				19
+			],
+			"lunar_month": "ৱাকচিং"
+		},
+		"2026-01-08": {
+			"lunar_days": [
+				20
+			],
+			"lunar_month": "ৱাকচিং"
+		},
+		"2026-01-09": {
+			"lunar_days": [
+				21
+			],
+			"lunar_month": "ৱাকচিং"
+		},
+		"2026-01-10": {
+			"lunar_days": [
+				22
+			],
+			"lunar_month": "ৱাকচিং"
+		},
+		"2026-01-11": {
+			"lunar_days": [
+				23
+			],
+			"lunar_month": "ৱাকচিং"
+		},
+		"2026-01-12": {
+			"lunar_days": [
+				24
+			],
+			"lunar_month": "ৱাকচিং"
+		},
+		"2026-01-13": {
+			"lunar_days": [
+				25
+			],
+			"lunar_month": "ৱাকচিং"
+		},
+		"2026-01-14": {
+			"lunar_days": [
+				26
+			],
+			"lunar_month": "ৱাকচিং",
+			"holiday": "Makar-Sankranti"
+		},
+		"2026-01-15": {
+			"lunar_days": [
+				27
+			],
+			"lunar_month": "ৱাকচিং"
+		},
+		"2026-01-16": {
+			"lunar_days": [
+				28
+			],
+			"lunar_month": "ৱাকচিং"
+		},
+		"2026-01-17": {
+			"lunar_days": [
+				29
+			],
+			"lunar_month": "ৱাকচিং"
+		},
+		"2026-01-18": {
+			"lunar_days": [
+				30
+			],
+			"lunar_month": "ৱাকচিং"
+		},
+		"2026-01-19": {
+			"lunar_days": [
+				1
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-01-20": {
+			"lunar_days": [
+				2
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-01-21": {
+			"lunar_days": [
+				3
+			],
+			"lunar_month": "ফাইরেন",
+			"holiday": "Statehood Day"
+		},
+		"2026-01-22": {
+			"lunar_days": [
+				4
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-01-23": {
+			"lunar_days": [
+				5
+			],
+			"lunar_month": "ফাইরেন",
+			"holiday": "Saraswati Puja"
+		},
+		"2026-01-24": {
+			"lunar_days": [
+				6
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-01-25": {
+			"lunar_days": [
+				7
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-01-26": {
+			"lunar_days": [
+				8
+			],
+			"lunar_month": "ফাইরেন",
+			"holiday": "Republic Day"
+		},
+		"2026-01-27": {
+			"lunar_days": [
+				9
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-01-28": {
+			"lunar_days": [
+				10
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-01-29": {
+			"lunar_days": [
+				11
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-01-30": {
+			"lunar_days": [
+				12
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-01-31": {
+			"lunar_days": [
+				13,
+				14
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-02-01": {
+			"lunar_days": [
+				15
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-02-02": {
+			"lunar_days": [
+				16
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-02-03": {
+			"lunar_days": [
+				17
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-02-04": {
+			"lunar_days": [
+				18
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-02-05": {
+			"lunar_days": [
+				19
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-02-06": {
+			"lunar_days": [
+				20
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-02-07": {
+			"lunar_days": [
+				21
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-02-08": {
+			"lunar_days": [
+				22
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-02-09": {
+			"lunar_days": [
+				23
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-02-10": {
+			"lunar_days": [
+				23
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-02-11": {
+			"lunar_days": [
+				24
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-02-12": {
+			"lunar_days": [
+				25
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-02-13": {
+			"lunar_days": [
+				26
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-02-14": {
+			"lunar_days": [
+				27
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-02-15": {
+			"lunar_days": [
+				28
+			],
+			"lunar_month": "ফাইরেন",
+			"holiday": "Lui-Ngai-Ni"
+		},
+		"2026-02-16": {
+			"lunar_days": [
+				29
+			],
+			"lunar_month": "ফাইরেন",
+			"holiday": "Srivrati"
+		},
+		"2026-02-17": {
+			"lunar_days": [
+				30
+			],
+			"lunar_month": "ফাইরেন"
+		},
+		"2026-02-18": {
+			"lunar_days": [
+				1
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-02-19": {
+			"lunar_days": [
+				2
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-02-20": {
+			"lunar_days": [
+				3
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-02-21": {
+			"lunar_days": [
+				4
+			],
+			"lunar_month": "লমতা",
+			"holiday": "Saroi Khangba"
+		},
+		"2026-02-22": {
+			"lunar_days": [
+				5
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-02-23": {
+			"lunar_days": [
+				6
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-02-24": {
+			"lunar_days": [
+				7,
+				8
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-02-25": {
+			"lunar_days": [
+				9
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-02-26": {
+			"lunar_days": [
+				10
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-02-27": {
+			"lunar_days": [
+				11
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-02-28": {
+			"lunar_days": [
+				12
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-03-01": {
+			"lunar_days": [
+				13
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-03-02": {
+			"lunar_days": [
+				14
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-03-03": {
+			"lunar_days": [
+				15
+			],
+			"lunar_month": "লমতা",
+			"holiday": "Yaoshang"
+		},
+		"2026-03-04": {
+			"lunar_days": [
+				16
+			],
+			"lunar_month": "লমতা",
+			"holiday": "Pechakari"
+		},
+		"2026-03-05": {
+			"lunar_days": [
+				17
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-03-06": {
+			"lunar_days": [
+				18
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-03-07": {
+			"lunar_days": [
+				19
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-03-08": {
+			"lunar_days": [
+				20
+			],
+			"lunar_month": "লমতা",
+			"holiday": "Halankar"
+		},
+		"2026-03-09": {
+			"lunar_days": [
+				21
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-03-10": {
+			"lunar_days": [
+				22
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-03-11": {
+			"lunar_days": [
+				23
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-03-12": {
+			"lunar_days": [
+				24
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-03-13": {
+			"lunar_days": [
+				24
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-03-14": {
+			"lunar_days": [
+				25
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-03-15": {
+			"lunar_days": [
+				26
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-03-16": {
+			"lunar_days": [
+				27
+			],
+			"lunar_month": "লমতা"
+		},
+		"2026-03-17": {
+			"lunar_days": [
+				28
+			],
+			"lunar_month": "লমতা",
+			"holiday": "Baruni"
+		},
+		"2026-03-18": {
+			"lunar_days": [
+				29
+			],
+			"lunar_month": "লমতা",
+			"holiday": "Sajibu Cheiraoba"
+		},
+		"2026-03-19": {
+			"lunar_days": [
+				30,
+				1
+			],
+			"lunar_month": "লমতা/সজিবু"
+		},
+		"2026-03-20": {
+			"lunar_days": [
+				2
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-03-21": {
+			"lunar_days": [
+				3
+			],
+			"lunar_month": "সজিবু",
+			"holiday": "Eid ul Filter"
+		},
+		"2026-03-22": {
+			"lunar_days": [
+				4
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-03-23": {
+			"lunar_days": [
+				5
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-03-24": {
+			"lunar_days": [
+				6
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-03-25": {
+			"lunar_days": [
+				7
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-03-26": {
+			"lunar_days": [
+				8
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-03-27": {
+			"lunar_days": [
+				9
+			],
+			"lunar_month": "সজিবু",
+			"holiday": "Ram Navmi"
+		},
+		"2026-03-28": {
+			"lunar_days": [
+				10
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-03-29": {
+			"lunar_days": [
+				11
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-03-30": {
+			"lunar_days": [
+				12
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-03-31": {
+			"lunar_days": [
+				13
+			],
+			"lunar_month": "সজিবু",
+			"holiday": "Mahavir Jayenti"
+		},
+		"2026-04-01": {
+			"lunar_days": [
+				14
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-04-02": {
+			"lunar_days": [
+				15
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-04-03": {
+			"lunar_days": [
+				16
+			],
+			"lunar_month": "সজিবু",
+			"holiday": "Good Friday"
+		},
+		"2026-04-04": {
+			"lunar_days": [
+				17
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-04-05": {
+			"lunar_days": [
+				18
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-04-06": {
+			"lunar_days": [
+				19
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-04-07": {
+			"lunar_days": [
+				20
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-04-08": {
+			"lunar_days": [
+				21
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-04-09": {
+			"lunar_days": [
+				22
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-04-10": {
+			"lunar_days": [
+				23
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-04-11": {
+			"lunar_days": [
+				24
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-04-12": {
+			"lunar_days": [
+				25
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-04-13": {
+			"lunar_days": [
+				26
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-04-14": {
+			"lunar_days": [
+				27
+			],
+			"lunar_month": "সজিবু",
+			"holiday": "Cheiraoba"
+		},
+		"2026-04-15": {
+			"lunar_days": [
+				28
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-04-16": {
+			"lunar_days": [
+				29
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-04-17": {
+			"lunar_days": [
+				30
+			],
+			"lunar_month": "সজিবু"
+		},
+		"2026-04-18": {
+			"lunar_days": [
+				1
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-04-19": {
+			"lunar_days": [
+				2
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-04-20": {
+			"lunar_days": [
+				3,
+				4
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-04-21": {
+			"lunar_days": [
+				5
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-04-22": {
+			"lunar_days": [
+				6
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-04-23": {
+			"lunar_days": [
+				7
+			],
+			"lunar_month": "কালেন",
+			"holiday": "Khongjom War"
+		},
+		"2026-04-24": {
+			"lunar_days": [
+				8
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-04-25": {
+			"lunar_days": [
+				9
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-04-26": {
+			"lunar_days": [
+				10
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-04-27": {
+			"lunar_days": [
+				11
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-04-28": {
+			"lunar_days": [
+				12
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-04-29": {
+			"lunar_days": [
+				13
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-04-30": {
+			"lunar_days": [
+				14
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-05-01": {
+			"lunar_days": [
+				15
+			],
+			"lunar_month": "কালেন",
+			"holiday": "May Day"
+		},
+		"2026-05-02": {
+			"lunar_days": [
+				16
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-05-03": {
+			"lunar_days": [
+				17
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-05-04": {
+			"lunar_days": [
+				18
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-05-05": {
+			"lunar_days": [
+				18
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-05-06": {
+			"lunar_days": [
+				19
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-05-07": {
+			"lunar_days": [
+				20
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-05-08": {
+			"lunar_days": [
+				21
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-05-09": {
+			"lunar_days": [
+				22
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-05-10": {
+			"lunar_days": [
+				23
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-05-11": {
+			"lunar_days": [
+				24
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-05-12": {
+			"lunar_days": [
+				25
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-05-13": {
+			"lunar_days": [
+				26
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-05-14": {
+			"lunar_days": [
+				27
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-05-15": {
+			"lunar_days": [
+				28
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-05-16": {
+			"lunar_days": [
+				29,
+				30
+			],
+			"lunar_month": "কালেন"
+		},
+		"2026-05-17": {
+			"lunar_days": [
+				1
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-05-18": {
+			"lunar_days": [
+				2
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-05-19": {
+			"lunar_days": [
+				3
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-05-20": {
+			"lunar_days": [
+				4
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-05-21": {
+			"lunar_days": [
+				5
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-05-22": {
+			"lunar_days": [
+				6
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-05-23": {
+			"lunar_days": [
+				7,
+				8
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-05-24": {
+			"lunar_days": [
+				9
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-05-25": {
+			"lunar_days": [
+				9
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-05-26": {
+			"lunar_days": [
+				10
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-05-27": {
+			"lunar_days": [
+				11
+			],
+			"lunar_month": "ইঙা",
+			"holiday": "Eidul Zuha"
+		},
+		"2026-05-28": {
+			"lunar_days": [
+				12
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-05-29": {
+			"lunar_days": [
+				13
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-05-30": {
+			"lunar_days": [
+				14
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-05-31": {
+			"lunar_days": [
+				15
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-01": {
+			"lunar_days": [
+				16
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-02": {
+			"lunar_days": [
+				17
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-03": {
+			"lunar_days": [
+				18
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-04": {
+			"lunar_days": [
+				19
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-05": {
+			"lunar_days": [
+				20
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-06": {
+			"lunar_days": [
+				21
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-07": {
+			"lunar_days": [
+				22
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-08": {
+			"lunar_days": [
+				23
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-09": {
+			"lunar_days": [
+				24
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-10": {
+			"lunar_days": [
+				25
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-11": {
+			"lunar_days": [
+				26
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-12": {
+			"lunar_days": [
+				27
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-13": {
+			"lunar_days": [
+				28
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-14": {
+			"lunar_days": [
+				29
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-15": {
+			"lunar_days": [
+				30
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-16": {
+			"lunar_days": [
+				1,
+				2
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-17": {
+			"lunar_days": [
+				3
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-18": {
+			"lunar_days": [
+				4
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-19": {
+			"lunar_days": [
+				5
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-20": {
+			"lunar_days": [
+				6
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-21": {
+			"lunar_days": [
+				7
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-22": {
+			"lunar_days": [
+				8
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-23": {
+			"lunar_days": [
+				9
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-24": {
+			"lunar_days": [
+				10
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-25": {
+			"lunar_days": [
+				11
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-26": {
+			"lunar_days": [
+				12
+			],
+			"lunar_month": "ইঙা",
+			"holiday": "Muharram"
+		},
+		"2026-06-27": {
+			"lunar_days": [
+				13
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-28": {
+			"lunar_days": [
+				14
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-29": {
+			"lunar_days": [
+				15
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-06-30": {
+			"lunar_days": [
+				15
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-07-01": {
+			"lunar_days": [
+				16
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-07-02": {
+			"lunar_days": [
+				17
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-07-03": {
+			"lunar_days": [
+				18
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-07-04": {
+			"lunar_days": [
+				19
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-07-05": {
+			"lunar_days": [
+				20
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-07-06": {
+			"lunar_days": [
+				21
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-07-07": {
+			"lunar_days": [
+				22
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-07-08": {
+			"lunar_days": [
+				23
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-07-09": {
+			"lunar_days": [
+				24
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-07-10": {
+			"lunar_days": [
+				25
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-07-11": {
+			"lunar_days": [
+				26,
+				27
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-07-12": {
+			"lunar_days": [
+				28
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-07-13": {
+			"lunar_days": [
+				29
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-07-14": {
+			"lunar_days": [
+				30
+			],
+			"lunar_month": "ইঙা"
+		},
+		"2026-07-15": {
+			"lunar_days": [
+				1
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-07-16": {
+			"lunar_days": [
+				2
+			],
+			"lunar_month": "ইঙেন",
+			"holiday": "Kang"
+		},
+		"2026-07-17": {
+			"lunar_days": [
+				3
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-07-18": {
+			"lunar_days": [
+				4,
+				5
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-07-19": {
+			"lunar_days": [
+				6
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-07-20": {
+			"lunar_days": [
+				7
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-07-21": {
+			"lunar_days": [
+				8
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-07-22": {
+			"lunar_days": [
+				8
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-07-23": {
+			"lunar_days": [
+				9
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-07-24": {
+			"lunar_days": [
+				10
+			],
+			"lunar_month": "ইঙেন",
+			"holiday": "Kanglen"
+		},
+		"2026-07-25": {
+			"lunar_days": [
+				11
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-07-26": {
+			"lunar_days": [
+				12
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-07-27": {
+			"lunar_days": [
+				13
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-07-28": {
+			"lunar_days": [
+				14
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-07-29": {
+			"lunar_days": [
+				15
+			],
+			"lunar_month": "ইঙেন",
+			"holiday": "Guru Purnima"
+		},
+		"2026-07-30": {
+			"lunar_days": [
+				16
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-07-31": {
+			"lunar_days": [
+				17
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-08-01": {
+			"lunar_days": [
+				18
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-08-02": {
+			"lunar_days": [
+				19
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-08-03": {
+			"lunar_days": [
+				20
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-08-04": {
+			"lunar_days": [
+				21
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-08-05": {
+			"lunar_days": [
+				22
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-08-06": {
+			"lunar_days": [
+				23
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-08-07": {
+			"lunar_days": [
+				24
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-08-08": {
+			"lunar_days": [
+				25
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-08-09": {
+			"lunar_days": [
+				26
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-08-10": {
+			"lunar_days": [
+				27
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-08-11": {
+			"lunar_days": [
+				28,
+				29
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-08-12": {
+			"lunar_days": [
+				30
+			],
+			"lunar_month": "ইঙেন"
+		},
+		"2026-08-13": {
+			"lunar_days": [
+				1
+			],
+			"lunar_month": "থৱান",
+			"holiday": "Patroits Day"
+		},
+		"2026-08-14": {
+			"lunar_days": [
+				2
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-08-15": {
+			"lunar_days": [
+				3
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-08-16": {
+			"lunar_days": [
+				4
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-08-17": {
+			"lunar_days": [
+				5
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-08-18": {
+			"lunar_days": [
+				6
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-08-19": {
+			"lunar_days": [
+				7
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-08-20": {
+			"lunar_days": [
+				8
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-08-21": {
+			"lunar_days": [
+				9
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-08-22": {
+			"lunar_days": [
+				10
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-08-23": {
+			"lunar_days": [
+				11
+			],
+			"lunar_month": "থৱান",
+			"holiday": "Jhulon Houba"
+		},
+		"2026-08-24": {
+			"lunar_days": [
+				12
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-08-25": {
+			"lunar_days": [
+				12
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-08-26": {
+			"lunar_days": [
+				13
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-08-27": {
+			"lunar_days": [
+				14
+			],
+			"lunar_month": "থৱান",
+			"holiday": "Chaklam Khongchat"
+		},
+		"2026-08-28": {
+			"lunar_days": [
+				15
+			],
+			"lunar_month": "থৱান",
+			"holiday": "Jhulon Loiba"
+		},
+		"2026-08-29": {
+			"lunar_days": [
+				16
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-08-30": {
+			"lunar_days": [
+				17
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-08-31": {
+			"lunar_days": [
+				18
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-09-01": {
+			"lunar_days": [
+				19
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-09-02": {
+			"lunar_days": [
+				20,
+				21
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-09-03": {
+			"lunar_days": [
+				22
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-09-04": {
+			"lunar_days": [
+				23
+			],
+			"lunar_month": "থৱান",
+			"holiday": "Janmasthami"
+		},
+		"2026-09-05": {
+			"lunar_days": [
+				24
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-09-06": {
+			"lunar_days": [
+				25
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-09-07": {
+			"lunar_days": [
+				26
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-09-08": {
+			"lunar_days": [
+				27
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-09-09": {
+			"lunar_days": [
+				28
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-09-10": {
+			"lunar_days": [
+				29
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-09-11": {
+			"lunar_days": [
+				30
+			],
+			"lunar_month": "থৱান"
+		},
+		"2026-09-12": {
+			"lunar_days": [
+				1
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-09-13": {
+			"lunar_days": [
+				2
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-09-14": {
+			"lunar_days": [
+				3
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-09-15": {
+			"lunar_days": [
+				4
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-09-16": {
+			"lunar_days": [
+				5
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-09-17": {
+			"lunar_days": [
+				6
+			],
+			"lunar_month": "লাংবন",
+			"holiday": "Pisatao Iratpa"
+		},
+		"2026-09-18": {
+			"lunar_days": [
+				7
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-09-19": {
+			"lunar_days": [
+				8
+			],
+			"lunar_month": "লাংবন",
+			"holiday": "Radhasthami"
+		},
+		"2026-09-20": {
+			"lunar_days": [
+				9
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-09-21": {
+			"lunar_days": [
+				10
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-09-22": {
+			"lunar_days": [
+				11
+			],
+			"lunar_month": "লাংবন",
+			"holiday": "Heikru Hidongba"
+		},
+		"2026-09-23": {
+			"lunar_days": [
+				12
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-09-24": {
+			"lunar_days": [
+				13
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-09-25": {
+			"lunar_days": [
+				14
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-09-26": {
+			"lunar_days": [
+				15
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-09-27": {
+			"lunar_days": [
+				16
+			],
+			"lunar_month": "লাংবন",
+			"holiday": "Tarpan Houba"
+		},
+		"2026-09-28": {
+			"lunar_days": [
+				17
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-09-29": {
+			"lunar_days": [
+				18
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-09-30": {
+			"lunar_days": [
+				19
+			],
+			"lunar_month": "লাংবন",
+			"holiday": "Irabot Day"
+		},
+		"2026-10-01": {
+			"lunar_days": [
+				20
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-10-02": {
+			"lunar_days": [
+				21
+			],
+			"lunar_month": "লাংবন",
+			"holiday": "Gandhi Jayanti"
+		},
+		"2026-10-03": {
+			"lunar_days": [
+				22
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-10-04": {
+			"lunar_days": [
+				23,
+				24
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-10-05": {
+			"lunar_days": [
+				25
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-10-06": {
+			"lunar_days": [
+				26
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-10-07": {
+			"lunar_days": [
+				27
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-10-08": {
+			"lunar_days": [
+				28
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-10-09": {
+			"lunar_days": [
+				29
+			],
+			"lunar_month": "লাংবন"
+		},
+		"2026-10-10": {
+			"lunar_days": [
+				30
+			],
+			"lunar_month": "লাংবন",
+			"holiday": "Tarpan Loiba"
+		},
+		"2026-10-11": {
+			"lunar_days": [
+				1
+			],
+			"lunar_month": "মেরা",
+			"holiday": "Chaourel Haouba"
+		},
+		"2026-10-12": {
+			"lunar_days": [
+				2
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-10-13": {
+			"lunar_days": [
+				3
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-10-14": {
+			"lunar_days": [
+				4
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-10-15": {
+			"lunar_days": [
+				5
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-10-16": {
+			"lunar_days": [
+				6
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-10-17": {
+			"lunar_days": [
+				6
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-10-18": {
+			"lunar_days": [
+				7
+			],
+			"lunar_month": "মেরা",
+			"holiday": "Durga Puja"
+		},
+		"2026-10-19": {
+			"lunar_days": [
+				8
+			],
+			"lunar_month": "মেরা",
+			"holiday": "Bor Numit"
+		},
+		"2026-10-20": {
+			"lunar_days": [
+				9
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-10-21": {
+			"lunar_days": [
+				10
+			],
+			"lunar_month": "মেরা",
+			"holiday": "Kwak Tanba"
+		},
+		"2026-10-22": {
+			"lunar_days": [
+				11
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-10-23": {
+			"lunar_days": [
+				12
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-10-24": {
+			"lunar_days": [
+				13
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-10-25": {
+			"lunar_days": [
+				14
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-10-26": {
+			"lunar_days": [
+				15
+			],
+			"lunar_month": "মেরা",
+			"holiday": "Mera Haochongba"
+		},
+		"2026-10-27": {
+			"lunar_days": [
+				16,
+				17
+			],
+			"lunar_month": "মেরা",
+			"holiday": "Puya Mei Thaba"
+		},
+		"2026-10-28": {
+			"lunar_days": [
+				18
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-10-29": {
+			"lunar_days": [
+				19
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-10-30": {
+			"lunar_days": [
+				20
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-10-31": {
+			"lunar_days": [
+				21
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-11-01": {
+			"lunar_days": [
+				22
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-11-02": {
+			"lunar_days": [
+				23
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-11-03": {
+			"lunar_days": [
+				24
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-11-04": {
+			"lunar_days": [
+				25
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-11-05": {
+			"lunar_days": [
+				26
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-11-06": {
+			"lunar_days": [
+				27
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-11-07": {
+			"lunar_days": [
+				28
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-11-08": {
+			"lunar_days": [
+				29
+			],
+			"lunar_month": "মেরা"
+		},
+		"2026-11-09": {
+			"lunar_days": [
+				30
+			],
+			"lunar_month": "মেরা",
+			"holiday": "Diwali"
+		},
+		"2026-11-10": {
+			"lunar_days": [
+				1
+			],
+			"lunar_month": "হিয়াংগৈ",
+			"holiday": "Govardhan Puja"
+		},
+		"2026-11-11": {
+			"lunar_days": [
+				2
+			],
+			"lunar_month": "হিয়াংগৈ",
+			"holiday": "Ningol Chakouba"
+		},
+		"2026-11-12": {
+			"lunar_days": [
+				3
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-11-13": {
+			"lunar_days": [
+				4
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-11-14": {
+			"lunar_days": [
+				5
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-11-15": {
+			"lunar_days": [
+				6
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-11-16": {
+			"lunar_days": [
+				7
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-11-17": {
+			"lunar_days": [
+				8
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-11-18": {
+			"lunar_days": [
+				8
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-11-19": {
+			"lunar_days": [
+				9
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-11-20": {
+			"lunar_days": [
+				10
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-11-21": {
+			"lunar_days": [
+				11,
+				12
+			],
+			"lunar_month": "হিয়াংগৈ",
+			"holiday": "Hari Uthan"
+		},
+		"2026-11-22": {
+			"lunar_days": [
+				13
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-11-23": {
+			"lunar_days": [
+				14
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-11-24": {
+			"lunar_days": [
+				15
+			],
+			"lunar_month": "হিয়াংগৈ",
+			"holiday": "Mera Waphukpa"
+		},
+		"2026-11-25": {
+			"lunar_days": [
+				16
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-11-26": {
+			"lunar_days": [
+				17
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-11-27": {
+			"lunar_days": [
+				18
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-11-28": {
+			"lunar_days": [
+				19,
+				20
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-11-29": {
+			"lunar_days": [
+				21
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-11-30": {
+			"lunar_days": [
+				22
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-12-01": {
+			"lunar_days": [
+				23
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-12-02": {
+			"lunar_days": [
+				24
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-12-03": {
+			"lunar_days": [
+				25
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-12-04": {
+			"lunar_days": [
+				26
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-12-05": {
+			"lunar_days": [
+				27
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-12-06": {
+			"lunar_days": [
+				28
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-12-07": {
+			"lunar_days": [
+				29
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-12-08": {
+			"lunar_days": [
+				30
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-12-09": {
+			"lunar_days": [
+				30
+			],
+			"lunar_month": "হিয়াংগৈ"
+		},
+		"2026-12-10": {
+			"lunar_days": [
+				1
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-11": {
+			"lunar_days": [
+				2
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-12": {
+			"lunar_days": [
+				3
+			],
+			"lunar_month": "পোইনু",
+			"holiday": "Nupi Lal"
+		},
+		"2026-12-13": {
+			"lunar_days": [
+				4
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-14": {
+			"lunar_days": [
+				5
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-15": {
+			"lunar_days": [
+				6
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-16": {
+			"lunar_days": [
+				7
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-17": {
+			"lunar_days": [
+				8
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-18": {
+			"lunar_days": [
+				9
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-19": {
+			"lunar_days": [
+				10
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-20": {
+			"lunar_days": [
+				11
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-21": {
+			"lunar_days": [
+				12
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-22": {
+			"lunar_days": [
+				13
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-23": {
+			"lunar_days": [
+				14
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-24": {
+			"lunar_days": [
+				15,
+				16
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-25": {
+			"lunar_days": [
+				17
+			],
+			"lunar_month": "পোইনু",
+			"holiday": "Christmas"
+		},
+		"2026-12-26": {
+			"lunar_days": [
+				18
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-27": {
+			"lunar_days": [
+				19
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-28": {
+			"lunar_days": [
+				20
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-29": {
+			"lunar_days": [
+				21
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-30": {
+			"lunar_days": [
+				22
+			],
+			"lunar_month": "পোইনু"
+		},
+		"2026-12-31": {
+			"lunar_days": [
+				23
+			],
+			"lunar_month": "পোইনু"
+		}
+	},
+	"tatnaba_rules": {
+		"2026": {
+			"সজিবু": {
+				"days": "নোংমাইজিং, নিংথৌকাবা",
+				"direction": "চিঙখৈ"
+			},
+			"কালেন": {
+				"days": "য়ুমশাকৈশা, ইরাই",
+				"direction": "অৱাং"
+			},
+			"ইঙা": {
+				"days": "লৈপাকপোকপা",
+				"direction": "নোংচুপ"
+			},
+			"ইঙেন": {
+				"days": "সাকোলশেন, থাংজা",
+				"direction": "কৌব্রু"
+			},
+			"থৱান": {
+				"days": "নোংমাইজিং, নিংথৌকাবা",
+				"direction": "চিঙখৈ"
+			},
+			"লাংবন": {
+				"days": "য়ুমশাকৈশা, ইরাই",
+				"direction": "অৱাং"
+			},
+			"মেরা": {
+				"days": "লৈপাকপোকপা",
+				"direction": "নোংচুপ"
+			},
+			"হিয়াংগৈ": {
+				"days": "সাকোলশেন, থাংজা",
+				"direction": "কৌব্রু"
+			},
+			"পোইনু": {
+				"days": "নোংমাইজিং, নিংথৌকাবা",
+				"direction": "চিঙখৈ"
+			},
+			"ৱাকচিং": {
+				"days": "য়ুমশাকৈশা, ইরাই",
+				"direction": "অৱাং"
+			},
+			"ফাইরেন": {
+				"days": "লৈপাকপোকপা",
+				"direction": "নোংচুপ"
+			},
+			"লমতা": {
+				"days": "সাকোলশেন, থাংজা",
+				"direction": "কৌব্রু"
+			}
+		},
+		"2027": {
+			"সজিবু": {
+				"days": "নোংমাইজিং, নিংথৌকাবা",
+				"direction": "চিঙখৈ"
+			},
+			"কালেন": {
+				"days": "য়ুমশাকৈশা, ইরাই",
+				"direction": "অৱাং"
+			},
+			"ইঙা": {
+				"days": "লৈপাকপোকপা",
+				"direction": "নোংচুপ"
+			},
+			"ইঙেন": {
+				"days": "সাকোলশেন, থাংজা",
+				"direction": "কৌব্রু"
+			},
+			"থৱান": {
+				"days": "নোংমাইজিং, নিংথৌকাবা",
+				"direction": "চিঙখৈ"
+			},
+			"লাংবন": {
+				"days": "য়ুমশাকৈশা, ইরাই",
+				"direction": "অৱাং"
+			},
+			"মেরা": {
+				"days": "লৈপাকপোকপা",
+				"direction": "নোংচুপ"
+			},
+			"হিয়াংগৈ": {
+				"days": "সাকোলশেন, থাংজা",
+				"direction": "কৌব্রু"
+			},
+			"পোইনু": {
+				"days": "নোংমাইজিং, নিংথৌকাবা",
+				"direction": "চিঙখৈ"
+			},
+			"ৱাকচিং": {
+				"days": "য়ুমশাকৈশা, ইরাই",
+				"direction": "অৱাং"
+			},
+			"ফাইরেন": {
+				"days": "লৈপাকপোকপা",
+				"direction": "নোংচুপ"
+			},
+			"লমতা": {
+				"days": "সাকোলশেন, থাংজা",
+				"direction": "কৌব্রু"
+			}
+		}
+	}
+}
