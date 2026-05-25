@@ -4471,6 +4471,12 @@
 				3
 			],
 			"lunar_month": "ꯋꯥꯛꯆꯤꯡ"
+		},
+		"2027-12-31": {
+			"lunar_days": [
+				3
+			],
+			"lunar_month": "ꯋꯥꯛꯆꯤꯡ"
 		}
 	},
 	"tatnaba_rules": {
